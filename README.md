@@ -10,6 +10,8 @@ Rubik's Revolution clone made using the Arduino UNO. The main game loop for Rubi
 - Solderable Bread Board
 - Arduino UNO
 - Jumper Wires
+- Battery Clip
+- 9v Battery
 
 # What I Learned 
 - Implementing timers
