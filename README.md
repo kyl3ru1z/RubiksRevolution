@@ -6,10 +6,10 @@ Rubik's Revolution clone made using the Arduino UNO. The main game loop for Rubi
 - On/Off Pushbuttun toggle switch
 - 6 ten ohm resistors 
 - 6 two hundred and twenty ohm resistor
-- Speaker
-- Bread board 
+- Speaker (3" Diameter - 8 Ohm 1 Watt)
+- Solderable Bread Board
 - Arduino UNO
-- Wires
+- Jumper Wires
 
 # What I Learned 
 - Implementing timers
