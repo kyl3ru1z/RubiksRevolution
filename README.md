@@ -18,3 +18,6 @@ Rubik's Revolution clone made using the Arduino UNO. The main game loop for Rubi
 - Creating Arduino Pitches 
 - Soldering Wires
 - Debouncing multiple buttons
+
+# Photos
+<img src="photos/open.PNG" height="250"> <img src="photos/rub_rev.PNG" height="250">
